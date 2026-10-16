@@ -4,6 +4,12 @@
 >
 > This repository was created as part of the TUOVA Project (see https://tuova.savonia.fi and https://tuovaproject.github.io/). Some of the information presented here might assume familiarity with other repositories created during the course of the project. For more details on those, see the "Additional Information" section at the bottom of this README.
 >
+> ### Author
+>
+> Mika Leskinen \<mika.leskinen@savonia.fi\>\
+> R&D Specialist\
+> Savonia University of Applied Sciences
+>
 > [![DOI](https://zenodo.org/badge/1411358437.svg)](https://doi.org/10.5281/zenodo.23394511)
 >
 > **Everything is provided as-is, use at your own risk.**
