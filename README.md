@@ -27,6 +27,10 @@ This repository contains the server-side setup of a pilot system that was deploy
 - Apache Airflow service for scheduling data processing tasks (e.g. getting raw data from InfluxDB and storing processed data to PostgeSQL)
 - Nginx proxy server for managing external access to the above services (e.g. communication ports, TLS certificates).
 
+The overall setup that was deployed during the project is illustrated in the image below. Components defined by the compose file (`./docker-compose.yml`) are located inside the `Virtual machine` section (the colored boxes). Note that the Nginx proxy is not explicitly shown in the image.
+
+![TUOVA project on-premises setup](tuova-pilot-pub.png)
+
 The system is designed to be deployed on a physical (or virtual) server machine located in a private network, and while the system would work just as well within a cloud VM ("VPS"), additional configuration to the above services and/or the cloud environment is likely to be required.
 
 ## Prerequisites
