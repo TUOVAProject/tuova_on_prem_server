@@ -1,4 +1,4 @@
-# tuova_on_prem_server
+# TUOVA On-premises Server Environment
 
 > ## IMPORTANT!
 >
